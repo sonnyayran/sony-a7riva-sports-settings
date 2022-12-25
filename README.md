@@ -1,4 +1,4 @@
-# sony-a7riva-sports-settings
+# Sony A7RIVA Sports Settings
 Setting for shooting sports for the Sony A7RIVA.
 
 | Setting Name  | Setting | Comments                                   |
