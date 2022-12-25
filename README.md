@@ -3,4 +3,4 @@ Setting for shooting sports.
 
 | Setting Name | Setting |
 | -----------------------|
-|              |         |
+|    Name          | Set        |
